@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1796380761/adroidLessons.iml" filepath="$PROJECT_DIR$/.idea/modules/1796380761/adroidLessons.iml" group="adroidLessons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-184312981/app.iml" filepath="$PROJECT_DIR$/.idea/modules/-184312981/app.iml" group="adroidLessons/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/p0031firstproject.iml" filepath="$PROJECT_DIR$/.idea/modules/p0031firstproject.iml" group="adroidLessons/p0031firstproject" />
+    </modules>
+  </component>
+</project>
